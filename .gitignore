@@ -1,0 +1,11 @@
+
+
+*.exe
+**/node_modules
+**.mp4
+._**
+
+*.pdf
+
+*.zip
+*.7z
